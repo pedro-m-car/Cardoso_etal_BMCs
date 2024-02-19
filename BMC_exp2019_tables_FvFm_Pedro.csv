@@ -1,0 +1,161 @@
+﻿Aquarium,Temperature,Treatment,FvFm,Replicate,Timepoint,Days
+1.1,Control temperature,BMC,0.593,CB,T0,0
+1.2,Control temperature,BMC,0.574,CB,T0,0
+1.3,Control temperature,BMC + Vibrio,0.699,CBV,T0,0
+1.4,Control temperature,Saline,0.607,CS,T0,0
+1.5,Control temperature,Saline,0.661,CS,T0,0
+2.1,Heat treatment,Vibrio,0.478,HV,T0,0
+2.2,Heat treatment,BMC + Vibrio,0.647,HBV,T0,0
+2.3,Heat treatment,BMC + Vibrio,0.594,HBV,T0,0
+2.4,Heat treatment,BMC,0.537,HB,T0,0
+2.5,Heat treatment,Saline,0.575,HS,T0,0
+3.1,Heat treatment,BMC + Vibrio,0.601,HBV,T0,0
+3.2,Heat treatment,BMC + Vibrio,0.582,HBV,T0,0
+3.3,Heat treatment,BMC,0.56,HB,T0,0
+3.4,Heat treatment,Saline,0.612,HS,T0,0
+3.5,Heat treatment,Vibrio,0.569,HV,T0,0
+4.1,Heat treatment,BMC + Vibrio,0.499,HBV,T0,0
+4.2,Heat treatment,Vibrio,0.545,HV,T0,0
+4.3,Heat treatment,Saline,0.504,HS,T0,0
+4.4,Heat treatment,Saline,0.51,HS,T0,0
+4.5,Heat treatment,BMC,0.521,HB,T0,0
+5.1,Control temperature,BMC,0.555,CB,T0,0
+5.2,Control temperature,BMC + Vibrio,0.527,CBV,T0,0
+5.3,Control temperature,Vibrio,0.533,CV,T0,0
+5.4,Control temperature,Vibrio,0.671,CV,T0,0
+5.5,Control temperature,BMC + Vibrio,0.574,CBV,T0,0
+6.1,Control temperature,Vibrio,0.631,CV,T0,0
+6.2,Control temperature,Vibrio,0.527,CV,T0,0
+6.3,Control temperature,Vibrio,0.495,CV,T0,0
+6.4,Control temperature,Saline,0.588,CS,T0,0
+6.5,Control temperature,BMC,0.587,CB,T0,0
+7.1,Control temperature,BMC,0.518,CB,T0,0
+7.2,Control temperature,BMC + Vibrio,0.528,CBV,T0,0
+7.3,Control temperature,BMC + Vibrio,0.635,CBV,T0,0
+7.4,Control temperature,Saline,0.519,CS,T0,0
+7.5,Control temperature,Saline,0.557,CS,T0,0
+8.1,Heat treatment,BMC,0.505,HB,T0,0
+8.2,Heat treatment,BMC,0.6,HB,T0,0
+8.3,Heat treatment,Vibrio,0.534,HV,T0,0
+8.4,Heat treatment,Vibrio,0.606,HV,T0,0
+8.5,Heat treatment,Saline,0.515,HS,T0,0
+1.1,Control temperature,BMC,0.412,CB,T1,11
+1.2,Control temperature,BMC,0.616,CB,T1,11
+1.3,Control temperature,BMC + Vibrio,0.528,CBV,T1,11
+1.4,Control temperature,Saline,0.638,CS,T1,11
+1.5,Control temperature,Saline,0.522,CS,T1,11
+2.1,Heat treatment,Vibrio,0.507,HV,T1,11
+2.2,Heat treatment,BMC + Vibrio,0.491,HBV,T1,11
+2.3,Heat treatment,BMC + Vibrio,0.405,HBV,T1,11
+2.4,Heat treatment,BMC,0.441,HB,T1,11
+2.5,Heat treatment,Saline,0.464,HS,T1,11
+3.1,Heat treatment,BMC + Vibrio,0.612,HBV,T1,11
+3.2,Heat treatment,BMC + Vibrio,0.505,HBV,T1,11
+3.3,Heat treatment,BMC,0.435,HB,T1,11
+3.4,Heat treatment,Saline,0.545,HS,T1,11
+3.5,Heat treatment,Vibrio,0.42,HV,T1,11
+4.1,Heat treatment,BMC + Vibrio,0.49,HBV,T1,11
+4.2,Heat treatment,Vibrio,0.397,HV,T1,11
+4.3,Heat treatment,Saline,0.416,HS,T1,11
+4.4,Heat treatment,Saline,0.427,HS,T1,11
+4.5,Heat treatment,BMC,0.444,HB,T1,11
+5.1,Control temperature,BMC,0.498,CB,T1,11
+5.2,Control temperature,BMC + Vibrio,0.448,CBV,T1,11
+5.3,Control temperature,Vibrio,0.508,CV,T1,11
+5.4,Control temperature,Vibrio,0.529,CV,T1,11
+5.5,Control temperature,BMC + Vibrio,0.489,CBV,T1,11
+6.1,Control temperature,Vibrio,0.366,CV,T1,11
+6.2,Control temperature,Vibrio,0.435,CV,T1,11
+6.3,Control temperature,Vibrio,0.475,CV,T1,11
+6.4,Control temperature,Saline,0.385,CS,T1,11
+6.5,Control temperature,BMC,0.575,CB,T1,11
+7.1,Control temperature,BMC,0.49,CB,T1,11
+7.2,Control temperature,BMC + Vibrio,0.532,CBV,T1,11
+7.3,Control temperature,BMC + Vibrio,0.514,CBV,T1,11
+7.4,Control temperature,Saline,0.523,CS,T1,11
+7.5,Control temperature,Saline,0.442,CS,T1,11
+8.1,Heat treatment,BMC,0.389,HB,T1,11
+8.2,Heat treatment,BMC,0.391,HB,T1,11
+8.3,Heat treatment,Vibrio,0.444,HV,T1,11
+8.4,Heat treatment,Vibrio,0.513,HV,T1,11
+8.5,Heat treatment,Saline,0.295,HS,T1,11
+1.1,Control temperature,BMC,0.518,CB,T2,25
+1.2,Control temperature,BMC,0.494,CB,T2,25
+1.3,Control temperature,BMC + Vibrio,0.586,CBV,T2,25
+1.4,Control temperature,Saline,0.559,CS,T2,25
+1.5,Control temperature,Saline,0.502,CS,T2,25
+2.1,Heat treatment,Vibrio,0.499,HV,T2,25
+2.2,Heat treatment,BMC + Vibrio,0.46,HBV,T2,25
+2.3,Heat treatment,BMC + Vibrio,0.51,HBV,T2,25
+2.4,Heat treatment,BMC,0.421,HB,T2,25
+2.5,Heat treatment,Saline,0.37,HS,T2,25
+3.1,Heat treatment,BMC + Vibrio,0.472,HBV,T2,25
+3.2,Heat treatment,BMC + Vibrio,0,HBV,T2,25
+3.3,Heat treatment,BMC,0.443,HB,T2,25
+3.4,Heat treatment,Saline,0.55,HS,T2,25
+3.5,Heat treatment,Vibrio,0.404,HV,T2,25
+4.1,Heat treatment,BMC + Vibrio,0.502,HBV,T2,25
+4.2,Heat treatment,Vibrio,0.428,HV,T2,25
+4.3,Heat treatment,Saline,0.445,HS,T2,25
+4.4,Heat treatment,Saline,0.407,HS,T2,25
+4.5,Heat treatment,BMC,0.497,HB,T2,25
+5.1,Control temperature,BMC,0.52,CB,T2,25
+5.2,Control temperature,BMC + Vibrio,0.462,CBV,T2,25
+5.3,Control temperature,Vibrio,0.458,CV,T2,25
+5.4,Control temperature,Vibrio,0.491,CV,T2,25
+5.5,Control temperature,BMC + Vibrio,0.501,CBV,T2,25
+6.1,Control temperature,Vibrio,0.477,CV,T2,25
+6.2,Control temperature,Vibrio,0.516,CV,T2,25
+6.3,Control temperature,Vibrio,0,CV,T2,25
+6.4,Control temperature,Saline,0.417,CS,T2,25
+6.5,Control temperature,BMC,0.549,CB,T2,25
+7.1,Control temperature,BMC,0.503,CB,T2,25
+7.2,Control temperature,BMC + Vibrio,0.524,CBV,T2,25
+7.3,Control temperature,BMC + Vibrio,0.532,CBV,T2,25
+7.4,Control temperature,Saline,0.491,CS,T2,25
+7.5,Control temperature,Saline,0.406,CS,T2,25
+8.1,Heat treatment,BMC,0.418,HB,T2,25
+8.2,Heat treatment,BMC,0.422,HB,T2,25
+8.3,Heat treatment,Vibrio,0,HV,T2,25
+8.4,Heat treatment,Vibrio,0.517,HV,T2,25
+8.5,Heat treatment,Saline,0,HS,T2,25
+1.1,Control temperature,BMC,0.485,CB,T3,32
+1.2,Control temperature,BMC,0.612,CB,T3,32
+1.3,Control temperature,BMC + Vibrio,0.616,CBV,T3,32
+1.4,Control temperature,Saline,0.578,CS,T3,32
+1.5,Control temperature,Saline,0.52,CS,T3,32
+2.1,Heat treatment,Vibrio,0.455,HV,T3,32
+2.2,Heat treatment,BMC + Vibrio,0.459,HBV,T3,32
+2.3,Heat treatment,BMC + Vibrio,0.401,HBV,T3,32
+2.4,Heat treatment,BMC,0.334,HB,T3,32
+2.5,Heat treatment,Saline,0.301,HS,T3,32
+3.1,Heat treatment,BMC + Vibrio,0.368,HBV,T3,32
+3.2,Heat treatment,BMC + Vibrio,0,HBV,T3,32
+3.3,Heat treatment,BMC,0.433,HB,T3,32
+3.4,Heat treatment,Saline,0.508,HS,T3,32
+3.5,Heat treatment,Vibrio,0,HV,T3,32
+4.1,Heat treatment,BMC + Vibrio,0.49,HBV,T3,32
+4.2,Heat treatment,Vibrio,0.321,HV,T3,32
+4.3,Heat treatment,Saline,0.347,HS,T3,32
+4.4,Heat treatment,Saline,0.294,HS,T3,32
+4.5,Heat treatment,BMC,0.399,HB,T3,32
+5.1,Control temperature,BMC,0.52,CB,T3,32
+5.2,Control temperature,BMC + Vibrio,0.462,CBV,T3,32
+5.3,Control temperature,Vibrio,0.476,CV,T3,32
+5.4,Control temperature,Vibrio,0.416,CV,T3,32
+5.5,Control temperature,BMC + Vibrio,0.53,CBV,T3,32
+6.1,Control temperature,Vibrio,0.552,CV,T3,32
+6.2,Control temperature,Vibrio,0.49,CV,T3,32
+6.3,Control temperature,Vibrio,0,CV,T3,32
+6.4,Control temperature,Saline,0,CS,T3,32
+6.5,Control temperature,BMC,0.558,CB,T3,32
+7.1,Control temperature,BMC,0.492,CB,T3,32
+7.2,Control temperature,BMC + Vibrio,0.552,CBV,T3,32
+7.3,Control temperature,BMC + Vibrio,0.525,CBV,T3,32
+7.4,Control temperature,Saline,0.469,CS,T3,32
+7.5,Control temperature,Saline,0.383,CS,T3,32
+8.1,Heat treatment,BMC,0.41,HB,T3,32
+8.2,Heat treatment,BMC,0.45,HB,T3,32
+8.3,Heat treatment,Vibrio,0,HV,T3,32
+8.4,Heat treatment,Vibrio,0.56,HV,T3,32
+8.5,Heat treatment,Saline,0,HS,T3,32
